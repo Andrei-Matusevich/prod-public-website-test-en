@@ -30,7 +30,7 @@ export default function RootLayout({
             >
                 <Script
                     src="https://cdn.mypersonas.ai/static/js/mypersonas.js"
-                    data-integration-id="01KA976ZFKC1EQYH5K53AX33B2"
+                    data-integration-id="01KA97TQPZPAWSDRD08H3DTE1B"
                     data-product=""
                     data-region="us"
                     defer
